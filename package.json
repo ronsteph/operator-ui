@@ -45,7 +45,7 @@
     "json-api-normalizer": "^1.0.4",
     "json-pretty-html": "^1.1.2",
     "local-storage-fallback": "^4.1.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.23",
     "moment": "^2.29.1",
     "path-to-regexp": "^3.0.0",
     "prop-types": "^15.6.2",
